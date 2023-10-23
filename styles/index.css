@@ -3,3 +3,12 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 .video{position:fixed;top:0;left:0;width:100%;z-index:-1}.BS{padding:16px 0}.BS_block{-webkit-perspective:1000px;perspective:1000px;-webkit-transform-style:preserve-3d;transform-style:preserve-3d;width:300px;height:200px;position:relative;margin:8px}.BS_block_con{width:100%;height:100%;background:rgba(0,0,0,0.4);border-radius:10px;-webkit-transition:-webkit-transform .1s;transition:-webkit-transform .1s;-o-transition:transform .1s;transition:transform .1s;transition:transform .1s,-webkit-transform .1s;-webkit-transition:background .4s;-o-transition:background .4s;transition:background .4s;cursor:pointer}.BS_block_con:hover{background:rgba(255,255,255,1)}.BS_block_con > img{pointer-events:none;opacity:1;-webkit-transition:all .3s;-o-transition:all .3s;transition:all .3s}.BS_block_con:hover img{opacity:0}.BS_block_con > span{opacity:0;position:absolute;color:#000;pointer-events:none;text-transform:capitalize}.BS_block_con:hover span{opacity:1;font-size:18px;font-weight:600}
 
 .img1{width:63%}.img2{width:54%}.img3{width:40%}.img4{width:43%}.img5{width:40%}.img6{width:40%}.img7{width:40%}.img8{width:43%}.img9{width:40%}.img10{width:75%}.img11{width:35%}.img12{width:50%}.img13{width:40%}.img14{width:45%}.img15{width:45%}.img16{width:45%}.img17{width:35%}.img18{width:55%}.img19{width:45%}.img20{width:35%}.img21{width:40%}.img22{width:42%}.img23{width:52%}.img24{width:35%}.img25{width:35%}.img26{width:35%}.img27{width:35%}.img28{width:33%}.img29{width: 24%;}.img30{width: 24%;}
+
+
+body {
+    /*background: url("images/mopka.png") no-repeat center top;*/
+    background: url("../images/mopka.png") no-repeat center top;
+    background-attachment: fixed;
+
+
+}
